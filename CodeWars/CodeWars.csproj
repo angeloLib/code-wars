@@ -42,6 +42,7 @@
     <Compile Include="6Kyu\BitCounting\BitCounting.cs" />
     <Compile Include="6Kyu\DuplicateEncoder\DuplicateEncoder.cs" />
     <Compile Include="6Kyu\MultipleOf3or5\MultipleThreeOrFive.cs" />
+    <Compile Include="6Kyu\PlayingWithDigits\PlayingWithDigits.cs" />
     <Compile Include="6Kyu\SplitString\SplitString.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFillterer.cs" />
     <Compile Include="7Kyu\VowelCount\VowelCount.cs" />
