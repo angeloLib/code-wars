@@ -61,6 +61,7 @@
     <Compile Include="6Kyu\MultipleOf3or5\MultipleOfThreeOrFiveTests.cs" />
     <Compile Include="6Kyu\SplitString\SplitsStringTest.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFilltererTests.cs" />
+    <Compile Include="7Kyu\VowelCount\VowelCountTests.cs" />
     <Compile Include="8Kyu\CubeShape\CubeCheckerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -69,7 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodeWars\CodeWars.csproj">
-      <Project>{2ACB9D47-A54E-4C9F-8C91-EBC6DF9CE110}</Project>
+      <Project>{2acb9d47-a54e-4c9f-8c91-ebc6df9ce110}</Project>
       <Name>CodeWars</Name>
     </ProjectReference>
   </ItemGroup>
