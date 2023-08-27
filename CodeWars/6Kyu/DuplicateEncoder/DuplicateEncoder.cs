@@ -18,11 +18,16 @@ namespace CodeWars._6Kyu
                 {
                     dic[letter] = dic[letter] + 1;
                 }
-                else { dic.Add(char.ToLower(letter), 1); }
+                else { dic.Add(letter, 1); }
             }
             foreach (var letter in word.ToCharArray())
             {
-                result = result + (dic[char.ToLower(letter)] > 1 ? ")" : "(");
+                int i = 0;
+                if (dic.ContainsKey(char.ToLower(letter)))
+                {
+                    i = i + (dic.ContainsKey(letter) ? 1 : 0);
+                }
+                result = result + (i > 1 ? ")" : "(");
             }
             return result;
         }

@@ -56,9 +56,10 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="6Kyu\BitCountingTests.cs" />
-    <Compile Include="6Kyu\DuplicateEncoderTests.cs" />
-    <Compile Include="7Kyu\ListFilltererTests.cs" />
+    <Compile Include="6Kyu\BitCounting\BitCountingTests.cs" />
+    <Compile Include="6Kyu\DuplicateEnconder\DuplicateEncoderTests.cs" />
+    <Compile Include="6Kyu\MultipleOf3or5\MultipleOfThreeOrFiveTests.cs" />
+    <Compile Include="7Kyu\ListFilterer\ListFilltererTests.cs" />
     <Compile Include="8Kyu\CubeShape\CubeCheckerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
