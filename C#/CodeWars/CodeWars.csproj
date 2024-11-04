@@ -47,6 +47,7 @@
     <Compile Include="7Kyu\ListFilterer\ListFillterer.cs" />
     <Compile Include="7Kyu\VowelCount\VowelCount.cs" />
     <Compile Include="8Kyu\CubeChecker\CubeChecker.cs" />
+    <Compile Include="8Kyu\EvenAndOdds\EvensAndOdds.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
