@@ -88,6 +88,7 @@
     <Compile Include="6Kyu\MultipleOf3or5\MultipleOfThreeOrFiveTests.cs" />
     <Compile Include="6Kyu\PlayingWithDigits\PlayingWithDigitsTest.cs" />
     <Compile Include="6Kyu\SplitString\SplitsStringTest.cs" />
+    <Compile Include="7Kyu\BuildingBlocks\BlockTests.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFilltererTests.cs" />
     <Compile Include="7Kyu\VowelCount\VowelCountTests.cs" />
     <Compile Include="8Kyu\CubeShape\CubeCheckerTests.cs" />

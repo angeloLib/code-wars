@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.9",
+    "ts-node": "^10.9.2"
+  }
+}
