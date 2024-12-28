@@ -50,6 +50,7 @@
     <Compile Include="7Kyu\VowelCount\VowelCount.cs" />
     <Compile Include="8Kyu\CubeChecker\CubeChecker.cs" />
     <Compile Include="8Kyu\EvenAndOdds\EvensAndOdds.cs" />
+    <Compile Include="LINQ\LinqExamples.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
