@@ -45,7 +45,7 @@
     <Compile Include="6Kyu\PlayingWithDigits\PlayingWithDigits.cs" />
     <Compile Include="6Kyu\SplitString\SplitString.cs" />
     <Compile Include="7Kyu\BuildingBlocks\Block.cs" />
-    <Compile Include="7Kyu\BuildingSpheres\BuildingSpheres.cs" />
+    <Compile Include="7Kyu\BuildingSpheres\Sphere.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFillterer.cs" />
     <Compile Include="7Kyu\VowelCount\VowelCount.cs" />
     <Compile Include="8Kyu\CubeChecker\CubeChecker.cs" />
