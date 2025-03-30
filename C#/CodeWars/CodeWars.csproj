@@ -47,6 +47,7 @@
     <Compile Include="7Kyu\BuildingBlocks\Block.cs" />
     <Compile Include="7Kyu\BuildingSpheres\Sphere.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFillterer.cs" />
+    <Compile Include="7Kyu\PasswordValidator\PasswordValidator.cs" />
     <Compile Include="7Kyu\VowelCount\VowelCount.cs" />
     <Compile Include="8Kyu\CubeChecker\CubeChecker.cs" />
     <Compile Include="8Kyu\EvenAndOdds\EvensAndOdds.cs" />

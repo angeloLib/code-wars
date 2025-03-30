@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using CodeWars._7Kyu;
 using CodeWars._7Kyu.ListFilterer;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
