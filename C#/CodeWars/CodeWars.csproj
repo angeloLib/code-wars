@@ -40,10 +40,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="6Kyu\BitCounting\BitCounting.cs" />
+    <Compile Include="6Kyu\Deadfish\Deadfish.cs" />
     <Compile Include="6Kyu\DuplicateEncoder\DuplicateEncoder.cs" />
     <Compile Include="6Kyu\MultipleOf3or5\MultipleThreeOrFive.cs" />
     <Compile Include="6Kyu\PlayingWithDigits\PlayingWithDigits.cs" />
     <Compile Include="6Kyu\SplitString\SplitString.cs" />
+    <Compile Include="6Kyu\TitleCase\TitleCaseExercise.cs" />
     <Compile Include="7Kyu\BuildingBlocks\Block.cs" />
     <Compile Include="7Kyu\BuildingSpheres\Sphere.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFillterer.cs" />

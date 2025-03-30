@@ -131,10 +131,12 @@
   </Choose>
   <ItemGroup>
     <Compile Include="6Kyu\BitCounting\BitCountingTests.cs" />
+    <Compile Include="6Kyu\Deadfish\DeadfishTests.cs" />
     <Compile Include="6Kyu\DuplicateEnconder\DuplicateEncoderTests.cs" />
     <Compile Include="6Kyu\MultipleOf3or5\MultipleOfThreeOrFiveTests.cs" />
     <Compile Include="6Kyu\PlayingWithDigits\PlayingWithDigitsTest.cs" />
     <Compile Include="6Kyu\SplitString\SplitsStringTest.cs" />
+    <Compile Include="6Kyu\TitleCase\TitleCaseExerciseTests.cs" />
     <Compile Include="7Kyu\BuildingBlocks\BlockTests.cs" />
     <Compile Include="7Kyu\BuildingSpheres\SphereTests.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFilltererTests.cs" />
