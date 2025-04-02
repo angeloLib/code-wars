@@ -140,6 +140,7 @@
     <Compile Include="6Kyu\TitleCase\TitleCaseExerciseTests.cs" />
     <Compile Include="7Kyu\BuildingBlocks\BlockTests.cs" />
     <Compile Include="7Kyu\BuildingSpheres\SphereTests.cs" />
+    <Compile Include="7Kyu\CreditCardMask\CreditCardMaskTests.cs" />
     <Compile Include="7Kyu\ListFilterer\ListFilltererTests.cs" />
     <Compile Include="7Kyu\PasswordValidator\PasswordValidatorTests.cs" />
     <Compile Include="7Kyu\VowelCount\VowelCountTests.cs" />
